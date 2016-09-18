@@ -1,7 +1,6 @@
 # It's Cognitive presentation
 
-[![event](images/event.png)](https://www.digitalcatapultcentre.org.uk/event/brighton-iot-meetup-cloud-computing-data-analytics/)
-
+[![
 # [Brighton IoT Meetup: Cloud Computing & Data Analytics for Internet of Things (IoT)](https://www.digitalcatapultcentre.org.uk/event/brighton-iot-meetup-cloud-computing-data-analytics/)
 September 14 @ 5:30 pm - 9:00 pm
 
@@ -18,6 +17,9 @@ September 14 @ 5:30 pm - 9:00 pm
 >   * Pantea Lotfian (Camrosh Consulting) – will do a short pitch-up about her recent data analytics research report
 
 > These presentations will be followed by a panel discussion.
+](images/event.png)](https://www.digitalcatapultcentre.org.uk/event/brighton-iot-meetup-cloud-computing-data-analytics/)
+
+
 
 ----
 
