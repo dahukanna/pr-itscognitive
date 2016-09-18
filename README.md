@@ -1,9 +1,8 @@
 # It's Cognitive presentation
 
-## [Brighton IoT Meetup: Cloud Computing & Data Analytics for Internet of Things (IoT)](https://www.digitalcatapultcentre.org.uk/event/brighton-iot-meetup-cloud-computing-data-analytics/)
+[![Brighton IoT Meetup: Cloud Computing & Data Analytics for Internet of Things (IoT)](https://dahukanna.github.io/pr-itscognitive/images/meetup.png)](https://www.digitalcatapultcentre.org.uk/event/brighton-iot-meetup-cloud-computing-data-analytics/)
 September 14 @ 5:30 pm - 9:00 pm
 
-![meetup](https://dahukanna.github.io/pr-itscognitive/images/meetup.png)
 > The term ‘Internet of Things’ is a misnomer.
 > What people are really interested in is the next generation of digital products and services. But to create these, you will need data!
 >
